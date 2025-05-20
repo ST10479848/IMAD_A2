@@ -13,3 +13,4 @@ https://github.com/ST10479848/IMAD_A2
 <img width="666" alt="Screenshot 2025-05-20 203639" src="https://github.com/user-attachments/assets/a0bc3139-7210-48eb-860f-ad56e908e760" />
 <img width="584" alt="Screenshot 2025-05-20 203707" src="https://github.com/user-attachments/assets/c3f166eb-3309-47ca-9b9a-f4e096649ad8" />
 <img width="722" alt="Screenshot 2025-05-20 203741" src="https://github.com/user-attachments/assets/63171828-e642-4658-bbc3-37fc550f5d2c" />
+[IMAD_A2.docx](https://github.com/user-attachments/files/20354129/IMAD_A2.docx)
