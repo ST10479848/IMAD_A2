@@ -3,14 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/howdidyoudo">
 
     <TextView
         android:id="@+id/scoreText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="140dp"
-        android:layout_marginEnd="177dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="160dp"
         android:text="Your score is :"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -19,8 +20,8 @@
         android:id="@+id/scorefeedbackText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="166dp"
-        android:layout_marginTop="44dp"
+        android:layout_marginStart="172dp"
+        android:layout_marginTop="84dp"
         android:text="Feedback"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/scoreText" />
